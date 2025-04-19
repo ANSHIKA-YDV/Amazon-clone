@@ -15,6 +15,7 @@ A simple Amazon clone built using **HTML** and **CSS** to replicate the layout a
 ## Preview
 
 ![Amazon Clone Preview](amazon-1.png)
+![Amazon Clone Preview](amazon-2.png)
 
 ---
 
